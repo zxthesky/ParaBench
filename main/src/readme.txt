@@ -1,0 +1,6 @@
+-- create_data 用来构造数据
+    -- generate_main_tasks.py 生成main generate_main_tasks
+    -- generate_data_dynamic_icl.py 生成train数据
+-- eval 用来测评的代码
+    -- test_LLM.py 测试大模型
+-- process_data 用来处理构造的数据
